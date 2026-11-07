@@ -58,20 +58,11 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "saas.sin.fan:443",
-    "www.mfyx.cn:443",
-    "cf.nyanya.moe:443",
-    "cf.877774.xyz:443",
-    "cdn.204910.best:443",
-    "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "www.udacity.com:443,linear.app:443,stores.staples.com:443,www.deepl.com:443,www.vmware.com:443,chrono24.com:443,guide.for.edu.sg:443,spring.io:443,store.ubi.com:443
+api.gzcrtw.com:443,cdn.667891.xyz:443,cdn.7zz.cn:443,skk.moe:443,themeisle.com:443,www.giannidelprete.it:443,bbs.alipansou.com:443,auto.dolby.dpdns.org:443,constitution.congress.gov:443,idc.urkeji.com:443,www.dbs.com.sg:443,cloudflare.idc.rocks:443,www.cancilleria.gov.co:443,fbi.gov:443,cdn.204910.best:443,icook.hk:443,m.iyf.tv:443,duckybot.xyz:443,www.mfyx.cn:443,ahrefs.com:443,yong.880805.xyz:443,images.chesscomfiles.com:443,openai.com:443,login.rockwellautomation.com:443,www.sloomb.com:443,eii.at:443,saas.sin.fan:443,smapi.xystem138.com:443,tt.78607323.xyz:443,www.postman.com:443,www.spacex.com:443,www.scayle.com:443,www.sofi.com:443,networksolutions.com:443,www.acces-maroc.ma:443,www.epicgames.com:443,www.zendesk.com:443,dx.doi.org:443,investor.apple.com:443,dianomi.com:443,coreweave.com:443,cloudflare.tv:443,email.lg.com:443,
+api.uniapi.io:443,mfa.gov.ua:443,linkvertise.com:443,www.dwk.com:443,www.speedtest.net:443,spirol.com:443,leawo.org:443,www.itedev.com:443,support.communilink.net:443,
+zabc.net:443,www.loc.gov:443,t.213891.xyz:443,ooo.0o0.ooo:443,www.sage.com:443,hashi.sbs:443,kick.com:443,www.doiting.com:443,oxylabs.io:443,hostinger.com:443,packtpub.com:443,www.trumpgolf.com,nodejs.org:443,totoro.im:443,www.trumpinternationalrealty.com:443,kernelsu.com:443,www.npmjs.com:443,www.mediafire.com:443,www.proxyrarbg.to:443,www.mastervolt.com:443,funko.com:443,www.chess.com:443,db-ip.com:443,www.hugedomains.com:443,stonexbullion.com:443,s.bookcdn.com:443,sci-hub.al:443,gitlab.com:443,ping.pe:443,store.ubisoft.com:443,dynadot.com:443,mvnrepository.com:443,prizepicks.com:443,cf.0sm.com:443,example.com:443,jquery.com:443,cozylife.app:443,rankmath.com:443,moegirl.icu:443,infinitemac.org:443,cdnjs.com:443,easylist.to:443,api.producthunt.com:443,static.elfsight.com:443,investorrelations.medtronic.com:443,www.owlgraphic.com:443,seo.07yue.com:443,www.roche.com:443,hentaiverse.org:443,wppaunz.com:443,neko.cloudflaree.eu.org:443,zoominfo.com:443,hsl.upstate.edu:443,kali.download:443,sharray.net:443,moodle.org:443,qoj.ac:443,gateway.ipfsscan.io:443,47bt.com:443,glitterx.cloud:443,dnew.cc:443,cf.3666888.xyz:443,www.copilot.com:443,absen.com:443,
+duggal.com:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
